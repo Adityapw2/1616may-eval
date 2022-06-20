@@ -1,0 +1,28 @@
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+thead th{
+  background-color: blue;
+}
+form{
+  font-size: larger;
+}
+h1{
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 10000;
+}
+div{
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+  /*     */
+}
+table{
+  margin-left: 50px;
+}
